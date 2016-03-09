@@ -1,6 +1,6 @@
 name: Making memories
 favicon: null
-layout_spectrum: 0.7493
+layout_spectrum: 0.24789
 typography_spectrum: 0.62711
 title: Trouwfotografie
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#15282c'
-    - '#a9a5a4'
-    - '#d6d2d3'
-    - '#495458'
-    - '#727679'
-  brandStrength: 0.4570296034216881
-  lightness: 0.33143396442756057
-  saturation: 0.18151533440686762
-  rhythmicContrast: 0.7021390667650849
+    - '#fafafa'
+    - '#dbdbdb'
+    - '#050505'
+    - '#a3a3a3'
+    - '#4a4a4a'
+  brandStrength: 0.625
+  lightness: 0.5
+  saturation: 0.75
+  rhythmicContrast: 0.5
 purpose: []
