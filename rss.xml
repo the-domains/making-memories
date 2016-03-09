@@ -4,7 +4,7 @@
         <description><![CDATA[Trouwfotografie]]></description>
         <link>https://thegrid.ai/making-memories/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 20:08:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2016 20:12:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/making-memories/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[test nav]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/making-memories/test-nav/index.html</link>
             <guid isPermaLink="false">0bd3a4af-ac66-4e31-bd09-a9a621039035</guid>
             <pubDate>Wed, 09 Mar 2016 20:07:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Test]]></title>
+            <description><![CDATA[<article><h1>Test</h1><p>Wilko</p></article>]]></description>
+            <link>https://thegrid.ai/making-memories/test/index.html</link>
+            <guid isPermaLink="false">9015063e-bb5a-4993-b502-0682e34aa214</guid>
+            <pubDate>Wed, 09 Mar 2016 20:11:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Making memories]]></title>
