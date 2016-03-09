@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Trouwfotografie]]></title>
+        <description><![CDATA[Trouwfotografie]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 09 Mar 2016 14:22:08 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Making memories]]></title>
+            <description><![CDATA[<article><h1>Making memories</h1><p>Hallo daar leuk dat je een kijkje komt nemen op mijn website...                   </p></article>]]></description>
+            <link>undefinedmaking-memories/index.html</link>
+            <guid isPermaLink="false">b45b87f8-e045-4a0d-883e-04b6223ccea7</guid>
+            <pubDate>Wed, 09 Mar 2016 14:21:56 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
