@@ -6,23 +6,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Hallo daar leuk dat je een kijkje komt nemen op mijn website... \_ \_ \_ \_ \_ \_ \_ \_ \_\_"
-datePublished: '2016-03-09T14:21:56.823Z'
-dateModified: '2016-03-08T16:14:07.524Z'
+datePublished: '2016-03-09T14:31:45.525Z'
+dateModified: '2016-03-09T14:29:14.812Z'
 title: Making memories
 author: []
+sourcePath: _posts/2016-03-09-making-memories.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-09-making-memories.md
-published: true
 url: making-memories/index.html
 _type: Article
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f8695318f88fb2ff032a53d2290166352d6785ec.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d1164c70-d52a-4a50-a338-4151e7b4c02e.jpg)
 
 Hallo daar leuk dat je een kijkje komt nemen op mijn website...                   
 
