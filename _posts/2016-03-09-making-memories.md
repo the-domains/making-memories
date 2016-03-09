@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: "Hallo daar leuk dat je een kijkje komt nemen op mijn website... \_ \_ \_ \_ \_ \_ \_ \_ \_\_"
-datePublished: '2016-03-09T14:31:45.525Z'
-dateModified: '2016-03-09T14:29:14.812Z'
+datePublished: '2016-03-09T20:56:04.825Z'
+dateModified: '2016-03-09T20:01:31.221Z'
 title: Making memories
 author: []
 sourcePath: _posts/2016-03-09-making-memories.md
@@ -18,11 +19,10 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: making-memories/index.html
-_type: Article
+_type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d1164c70-d52a-4a50-a338-4151e7b4c02e.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4a64ebe4b7fdc67951e1e925c821ef19e2793668.png)
 
 Hallo daar leuk dat je een kijkje komt nemen op mijn website...                   
 
