@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-09T19:23:39.212Z'
-dateModified: '2016-03-09T19:23:01.526Z'
+datePublished: '2016-03-09T20:05:32.459Z'
+dateModified: '2016-03-09T20:05:18.730Z'
 title: En toen zei ik....
 author: []
 sourcePath: _posts/2016-03-09-en-toen-zei-ik.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: en-toen-zei-ik/index.html
-_type: Article
+_type: WebPage
 
 ---
 En toen zei ik....
